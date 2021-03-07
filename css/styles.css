@@ -1,0 +1,35 @@
+.section {
+  text-align: center;
+}
+
+.section-header {
+  margin-top: 1rem;
+  margin-bottom: 6rem !important;
+}
+
+.has-same-height .card {
+  height: 320px;
+  overflow: hidden;
+}
+
+td, th {
+  border: 0 !important;
+}
+
+td {
+  text-align: left !important;
+}
+
+.media {
+  margin: 0 !important;
+  padding: 4px !important;
+  border: 0 !important;
+}
+
+progress {
+  height: 4px !important;
+}
+
+strong {
+  float: left;
+}
