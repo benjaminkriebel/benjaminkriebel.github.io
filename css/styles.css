@@ -3,8 +3,7 @@
 }
 
 .section-header {
-  margin-top: 1rem;
-  margin-bottom: 6rem !important;
+  margin: 1rem 0 !important;
 }
 
 .has-same-height .card {
